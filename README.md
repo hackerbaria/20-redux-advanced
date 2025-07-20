@@ -1,6 +1,6 @@
 # 📦 Project Name
 
-A brief description of your React.js project.
+This project is about showing how to use reduxjs-toolkit to manage state, also using firebase as backend to fetch cart's info and commit cart after buying.
 
 ## 🚀 Features
 
